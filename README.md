@@ -1,1 +1,3 @@
-# Analise_dados_novo
+# Analise , limpeza e tratamento de dados...
+# Aplicação da biblioteca "sklearn" e analisando os dados com "SVM" E NAIVE_BAYES
+
